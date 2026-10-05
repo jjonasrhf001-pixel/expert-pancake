@@ -1,4 +1,3 @@
 # Expert Pancake
 
 Projektbeschreibung folgt.
-
